@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+#blue{
+    color:rgb(40, 27, 128);
+    font-family:sans-serif;
+}
+#box
+{
+    background-color:rgb(238, 238, 238);
+    height:30rem;
+    width:52rem;
+}
+#small{
+    display:flex;
+}
+#block{
+    margin-left:1.5rem;
+    margin-top:4rem;
+}
+p{
+    color:rgb(16, 115, 208);
+    font-size:1.5rem;
+    font-family: sans-serif;
+}
+#dateIn{
+    padding:1rem;
+    border-color: rgb(16, 115, 208);
+    font-size: 1rem;
+    color:rgb(16, 115, 208);
+  }
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {      
+  -webkit-appearance: none;
+  }
+#month{
+    padding:1rem;
+    border-color: rgb(16, 115, 208);
+    font-size: 1rem;
+    color:rgb(16, 115, 208);
+}
+#year{
+    padding:1rem; 
+    border-color: rgb(16, 115, 208);
+    font-size: 1rem;
+    color:rgb(16, 115, 208);
+}
+#btn{
+    background-color:rgb(7, 97, 182);
+    color: white;
+    padding:1.5rem;
+    width:13rem;
+    font-size: 1.5rem;
+    border-color:rgb(7, 97, 182);
+    margin-left:19rem;
+    margin-top:2rem;
+}
+#print{
+    color:rgb(20, 14, 130);
+    font-size:2.5rem;
+    font-family:sans-serif;
+    text-align: center;
+}
+#age{
+    color:rgb(0, 0, 128);
+    font-size:2rem;
+    font-family:sans-serif;
+    text-align: center;
+}
